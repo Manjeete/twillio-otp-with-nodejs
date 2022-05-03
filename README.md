@@ -1,3 +1,1 @@
-# firebase-admin-nodejs-notification
-
-Send notification using firebase-admin and nodejs
+# send otp to phone using Twilio
