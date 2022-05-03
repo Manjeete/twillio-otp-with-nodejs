@@ -1,1 +1,3 @@
-# twillio-otp-with-nodejs
+# firebase-admin-nodejs-notification
+
+Send notification using firebase-admin and nodejs
